@@ -25,7 +25,7 @@ Welcome to my profile! I’m a web developer passionate about modern technologie
 
 ## 📫 How to reach me
 
-If you’d like to discuss projects or anything else, feel free to contact me at [email@example.com](rotaruiulian19@gmail.com) or on LinkedIn at [[linkedin.com/in/username]([https://linkedin.com/in/username](https://www.linkedin.com/in/iulian-rotaru-web-dev/))].
+If you’d like to discuss projects or anything else, feel free to contact me at [rotaruiulian19@gmail.com] or on LinkedIn at [[linkedin.com/in/iulian-rotaru-web-dev]([(https://www.linkedin.com/in/iulian-rotaru-web-dev/)])].
 
 ## 🔧 My Passion
 
