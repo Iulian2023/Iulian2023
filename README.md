@@ -5,8 +5,8 @@ Welcome to my profile! I’m a web developer passionate about modern technologie
 ## 💻 Skills
 
 - **Front-end**: React, HTML, CSS, JavaScript, TypeScript
-- **Back-end**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
+- **Back-end**: Node.js, Express.js, PHP
+- **Databases**: MariaDB, MySQL, PostgreSQL
 - **Version Control**: Git, GitHub
 - **Others**: Docker, REST APIs
 
