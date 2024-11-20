@@ -13,7 +13,7 @@ Welcome to my profile! I’m a web developer passionate about modern technologie
 ## 📂 Project
 
 ### 1. **[Jusqu'au Bout du Monde](https://github.com/Iulian2023/Projet_Blog)**
-   An informational website dedicated to world exploration and learning about web development. It features articles, tutorials, and technical implementation examples.
+   An informational website dedicated to world exploration and learning about travel. It features articles, tutorials. (Presentation]
    
    **Technologies**: Symfony, PHP, JavaScript
 
